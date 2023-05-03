@@ -11,6 +11,6 @@ This project aims to use OpenAI's API to automatically generate regular expressi
 
 This project was made using [ReTool](https://retool.com/), [OpenAI](https://platform.openai.com/overview) & [CodeMirror](https://codemirror.net/).
 
-- **Skills used: HTML - CSS - JavaScript - REST API**
+Check it out here: [**💻 Live Demo**](https://abdallahamir.retool.com/apps/7c1a3cc6-e9bf-11ed-82aa-57622ea58b9b/RegEx%20Geneerator%20using%20OpenAI%20API)
 
-[**💻 Live Demo**](https://abdallahamir.retool.com/apps/7c1a3cc6-e9bf-11ed-82aa-57622ea58b9b/RegEx%20Geneerator%20using%20OpenAI%20API)
+- **Skills used: HTML - CSS - JavaScript - REST API**
